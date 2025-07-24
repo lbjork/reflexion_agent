@@ -1,0 +1,28 @@
+# Python cache och bytekod
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtuell miljö
+.venv/
+
+# Miljövariabler
+.env
+.env.*
+
+# VSCode & PyCharm
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# uv installationscache
+.uv/
+
+# Python distributionsfiler
+build/
+dist/
+*.egg-info/
